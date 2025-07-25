@@ -22,3 +22,13 @@
 <img width="108" height="216" alt="Screenshot_1753443730" src="https://github.com/user-attachments/assets/fe64ddf3-317c-496b-87f0-71eb096e90bc" />
 <img width="108" height="216" alt="Screenshot_1753443735" src="https://github.com/user-attachments/assets/60bfe478-1614-454e-8fda-2df4b713802e" />
 <img width="108" height="216" alt="Screenshot_1753443991" src="https://github.com/user-attachments/assets/714f471f-3209-45a5-a08b-3e9487cf6637" />
+
+**Công nghệ và thư viện sử dụng**
+
+**- Flutter:** https://flutter.dev
+
+**- GetX:** https://pub.dev/packages/get
+
+**- http:** https://pub.dev/packages/http
+
+**- shared_preferences:** https://pub.dev/packages/shared_preferences

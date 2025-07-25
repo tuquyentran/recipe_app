@@ -36,7 +36,7 @@ class FavoriteCard extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // --- Phần hình ảnh ---
+            // --- ảnh ---
             Stack(
               children: [
                 ClipRRect(
@@ -86,7 +86,7 @@ class FavoriteCard extends StatelessWidget {
                 ),
               ],
             ),
-            // --- Phần thông tin bên dưới ---
+            // --- thông tin ---
             Padding(
               padding: const EdgeInsets.fromLTRB(12, 12, 12, 8),
               child: Column(

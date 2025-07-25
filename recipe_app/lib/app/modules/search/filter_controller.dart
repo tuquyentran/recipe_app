@@ -1,5 +1,4 @@
  import 'package:get/get.dart';
-import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 import 'package:recipe_app/app/data/models/area_model.dart';
 import 'package:recipe_app/app/data/models/category_model.dart';
 import 'package:recipe_app/app/data/models/ingredient_model.dart';
@@ -11,7 +10,6 @@ class FilterController extends GetxController {
   var areas = <Area>[].obs;
   var isLoading = false.obs;
 
-  // Lưu trạng thái của các tùy chọn lọc đã chọn
   var selectedCategory = Rxn<String>();
   var selectedIngredient = Rxn<String>();
   var selectedArea = Rxn<String>();

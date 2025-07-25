@@ -1,4 +1,3 @@
-// lib/app/widgets/my_choice_chips.dart
 import 'package:flutter/material.dart';
 
 class MyChoiceChips extends StatelessWidget {
